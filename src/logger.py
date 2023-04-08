@@ -18,5 +18,5 @@ level=logging.INFO
 
 )
 
-if __name__ == "__main__":
-    logging.info("Logging has started")
+# if __name__ == "__main__": #Just to test the logging
+#     logging.info("Logging has started")
